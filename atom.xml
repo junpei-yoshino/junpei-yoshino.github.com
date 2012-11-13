@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://junpei-yoshino.github.com/atom.xml" rel="self"/>
   <link href="http://junpei-yoshino.github.com/"/>
-  <updated>2012-11-14T01:06:57+09:00</updated>
+  <updated>2012-11-14T01:24:15+09:00</updated>
   <id>http://junpei-yoshino.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,28 @@
     <link href="http://junpei-yoshino.github.com/blog/2012/11/14/tech-blogshu-itemiru/"/>
     <updated>2012-11-14T01:00:00+09:00</updated>
     <id>http://junpei-yoshino.github.com/blog/2012/11/14/tech-blogshu-itemiru</id>
-    <content type="html"><![CDATA[<p>aaa</p>
+    <content type="html"><![CDATA[<p>最近思っていることのメモ
+* ASN持ってなくても組織間で経路交換したいケースある気がしている</p>
+
+<pre><code>* どこかのAS内のprivate as同士のピアがしたいケース。衝突が怖い（本当にある？）
+</code></pre>
+
+<ul>
+<li>vxlanとかは事業者内で一意であることも重要だけど、事業者超えてできたらもっとよいと思う。
+
+<ul>
+<li>クラウド事業者移行が相互に容易だったら幸せな気がする。移行用のためにわざわざ専用線用意しないでできたらよりよい。</li>
+</ul>
+</li>
+<li>コンセントと戦うことは楽しい
+
+<ul>
+<li>データセンターコストでいかに電源周りを少なくするかは重要</li>
+<li>電源ケーブルに流れる電流量をうまくコントロールできるとよい</li>
+</ul>
+</li>
+</ul>
+
 ]]></content>
   </entry>
   
